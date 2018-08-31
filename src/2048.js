@@ -1,7 +1,6 @@
 //this指向的是windows;
 var WebGL = laya.webgl.WebGL;
 var Text = Laya.Text;
-Laya.MiniAdpter.init();
 Laya.init(375, 667, WebGL);
 Laya.stage.bgColor = "#faf8ee";
 Laya.stage.screenMode = "none";

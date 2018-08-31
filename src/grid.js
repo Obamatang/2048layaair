@@ -1,4 +1,6 @@
-(function(){//var Board = 
+Laya.MiniAdpter.init();
+
+    (function(){//var Board = 
   
     function Board(size){
         console.log(1,size);
